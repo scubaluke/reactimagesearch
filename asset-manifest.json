@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactimagesearch/static/css/main.f2f0a8a3.chunk.css",
+    "main.js": "/reactimagesearch/static/js/main.af2f1eca.chunk.js",
+    "main.js.map": "/reactimagesearch/static/js/main.af2f1eca.chunk.js.map",
+    "runtime-main.js": "/reactimagesearch/static/js/runtime-main.e303458d.js",
+    "runtime-main.js.map": "/reactimagesearch/static/js/runtime-main.e303458d.js.map",
+    "static/js/2.6ba311bf.chunk.js": "/reactimagesearch/static/js/2.6ba311bf.chunk.js",
+    "static/js/2.6ba311bf.chunk.js.map": "/reactimagesearch/static/js/2.6ba311bf.chunk.js.map",
+    "index.html": "/reactimagesearch/index.html",
+    "static/css/main.f2f0a8a3.chunk.css.map": "/reactimagesearch/static/css/main.f2f0a8a3.chunk.css.map",
+    "static/js/2.6ba311bf.chunk.js.LICENSE.txt": "/reactimagesearch/static/js/2.6ba311bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e303458d.js",
+    "static/js/2.6ba311bf.chunk.js",
+    "static/css/main.f2f0a8a3.chunk.css",
+    "static/js/main.af2f1eca.chunk.js"
+  ]
+}
